@@ -1,4 +1,4 @@
-Line bottom
+front of line Line bottom
 This is my first file
 it is a great file
 
